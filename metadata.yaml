@@ -1,0 +1,29 @@
+_repo: Lucile-Triumphant_27643
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duffield, Elizabeth M.
+    gutenberg_agent_id: '32814'
+    url: http://www.gutenberg.org/2009/agents/32814
+description: ''
+gutenberg_issued: '2008-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Europe -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Teenage girls -- Fiction'
+title: Lucile Triumphant
+url: http://www.gutenberg.org/ebooks/27643
